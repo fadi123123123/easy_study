@@ -19,13 +19,12 @@ and using `node js` server.
 * Show my profile and edite.
 
 ## ScreenShot
-<img src="11.jpg" width="200" height="400"/>
-![](11.jpg | width=100 )
-![](12.jpg)
-![](13.jpg)
-![](14.jpg)
-![](15.jpg)
-![](16.jpg)
-![](17.jpg)
-![](18.jpg)
-![](19.jpg )
+<img src="11.jpg" width="250" height="500"/>
+<img src="12.jpg" width="250" height="500"/>
+<img src="13.jpg" width="250" height="500"/>
+<img src="14.jpg" width="250" height="500"/>
+<img src="15.jpg" width="250" height="500"/>
+<img src="16.jpg" width="250" height="500"/>
+<img src="17.jpg" width="250" height="500"/>
+<img src="18.jpg" width="250" height="500"/>
+<img src="19.jpg" width="250" height="500"/>
