@@ -6,8 +6,8 @@ mobile app that helps student in my college to get their courses and lectures wh
 ## About
 - Easy_study using `cubit bloc` state management flutter and `MVVM` architecture.
 and using `node js` server.
-- !include ICONURL/font-awesome-5/java.puml
-  - - - -
+
+- - - -
 ## Services provided by the application
 * Register & Login.
 * Show all courses.
