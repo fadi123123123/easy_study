@@ -19,7 +19,7 @@ and using `node js` server.
 * Show my profile and edite.
 
 ## ScreenShot
-![](11.jpg =100x100)
+![](11.jpg | width=100 )
 ![](12.jpg)
 ![](13.jpg)
 ![](14.jpg)
