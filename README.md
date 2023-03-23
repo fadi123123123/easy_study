@@ -4,8 +4,9 @@ mobile app that helps student in my college to get their courses and lectures wh
 ![p](p.jpg)
 
 ## About
-Easy_study using `cubit bloc` state management and `MVVM` architecture.
+Easy_study using `cubit bloc` state management flutter and `MVVM` architecture.
 and using `node js` server.
+!include ICONURL/font-awesome-5/flutter.puml
   - - - -
 ## Services provided by the application
 * Register & Login.
