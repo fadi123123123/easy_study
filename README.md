@@ -18,7 +18,7 @@ and using `node js` server.
 * Show my profile and edite.
 
 ## ScreenShot
-![](11.jpg/300x500 "Title is optional")
+![](11.jpg/600x500 "Title is optional")
 ![](12.jpg/300x500)
 ![](13.jpg/300x500)
 ![](14.jpg/300x500)
